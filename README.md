@@ -100,15 +100,17 @@ A built-in regression dataset from Scikit-Learn containing multiple medical feat
 
 ---
 
-## 🏁 Conclusion
-
-Ridge Regression is an effective regularization technique for high-dimensional datasets. By implementing the complete algorithm from scratch, this project provides a clear understanding of how Gradient Descent, L2 Regularization, and coefficient optimization work together to build robust machine learning models.
-
----
-
 ## 💻 Technologies Used
 
 * Python
 * NumPy
 * Pandas
 * Matplotlib
+
+---
+
+## 🏁 Conclusion
+
+Ridge Regression is an effective regularization technique for high-dimensional datasets. By implementing the complete algorithm from scratch, this project provides a clear understanding of how Gradient Descent, L2 Regularization, and coefficient optimization work together to build robust machine learning models.
+
+
